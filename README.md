@@ -1,5 +1,7 @@
 # mlPlayground
 
+My particular Machine Learning Playground, used to explore some techniques for regression and classification, mainly focused on using Deep Learning techniques.
+
 ### Datasets:
 
 - [UCI Machine Learning](https://www.kaggle.com/uciml/datasets)
@@ -11,6 +13,5 @@
 
 ### Dependencies
 
-- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) (Python >3)
-- [Theano](http://deeplearning.net/software/theano/install.html) (Python <3)
+- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html) (Python <3)
 - [OpenFace](https://github.com/samotiian/Installing_openface_with_anaconda)
