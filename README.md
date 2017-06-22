@@ -10,8 +10,19 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [Berkeley Earth](https://www.kaggle.com/nycparks/datasets)
 - [NYC Parks & Recreation](https://www.kaggle.com/nycparks/datasets)
 
+### Willing to play with:
+
+- [ ] Image Recognition
+  - [x] Digit Recognizer
+  - [ ] Face Recognizer
+  - [ ] Emotion Recognizer
+  - [ ] Image Captioning
+- [ ] Language Translation
+- [ ] Speech Recognition
+
+
 
 ### Dependencies
 
-- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html) (Python <3)
+- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)
 - [OpenFace](https://github.com/samotiian/Installing_openface_with_anaconda)
