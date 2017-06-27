@@ -25,7 +25,7 @@ My particular Machine Learning Playground, used to explore some techniques for r
 2. Models:
 - [x] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
-- [ ] Long Short-term Memory
+  - [ ] Long Short-term Memory
 
 
 
@@ -34,3 +34,5 @@ My particular Machine Learning Playground, used to explore some techniques for r
 
 - [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)
 - [OpenFace](https://github.com/samotiian/Installing_openface_with_anaconda)
+- OpenCV
+- dlib
