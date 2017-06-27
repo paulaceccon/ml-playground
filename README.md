@@ -12,13 +12,21 @@ My particular Machine Learning Playground, used to explore some techniques for r
 
 ### Willing to play with:
 
+
+1. Problems:
 - [ ] Image Recognition
   - [x] Digit Recognizer
-  - [ ] Face Recognizer
+  - [x] Face Recognizer
   - [ ] Emotion Recognizer
   - [ ] Image Captioning
 - [ ] Language Translation
 - [ ] Speech Recognition
+
+2. Models:
+- [x] Convolutional Neural Networks
+- [ ] Recurrent Neural Networks
+- [ ] Long Short-term Memory
+
 
 
 
