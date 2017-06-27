@@ -26,8 +26,18 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [x] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
   - [ ] Long Short-term Memory
-
-
+  
+3. Kaggle Playground:
+- [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
+- [ ] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
+- [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- [ ] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+- [ ] [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers)
+- [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
+- [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
+- [ ] [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+- [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
+- [ ] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
 
 ### Dependencies
