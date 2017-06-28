@@ -2,6 +2,7 @@
 
 My particular Machine Learning Playground, used to explore some techniques for regression and classification, mainly focused on using Deep Learning techniques.
 
+---
 ### Datasets:
 
 - [UCI Machine Learning](https://www.kaggle.com/uciml/datasets)
@@ -9,10 +10,10 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [NOAA](https://www.kaggle.com/noaa/datasets)
 - [NYC Parks & Recreation](https://www.kaggle.com/nycparks/datasets)
 
+---
 ### Willing to play with:
 
-
-1. Problems:
+**1. Problems:**
 - [ ] Image Recognition
   - [x] Digit Recognizer
   - [x] Face Recognizer
@@ -21,12 +22,12 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] Language Translation
 - [ ] Speech Recognition
 
-2. Models:
+**2. Models:** 
 - [x] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
   - [ ] Long Short-term Memory
   
-3. Kaggle Playground:
+**3. Kaggle Playground:** 
 - [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
 - [ ] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
 - [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
@@ -38,10 +39,12 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 - [ ] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
-
+---
 ### Dependencies
 
-- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)
+- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)<sup>1</sup>
 - [OpenFace](https://github.com/samotiian/Installing_openface_with_anaconda)
 - OpenCV
 - dlib
+
+<sup>1</sup>*For Tensor Flow GPU installation (Win) check [this](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html).*
