@@ -42,9 +42,9 @@ My particular Machine Learning Playground, used to explore some techniques for r
 ---
 ### Dependencies
 
-- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)
+- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)<sup>1</sup>
 - [OpenFace](https://github.com/samotiian/Installing_openface_with_anaconda)
 - OpenCV
 - dlib
 
-* For Tensor Flow GPU installation (Win) check [this](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html).
+<sup>1</sup>*For Tensor Flow GPU installation (Win) check [this](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html).*
