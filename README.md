@@ -22,11 +22,12 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] Language Translation
 - [ ] Speech Recognition
 
-**2. Models:** 
+**2. Deep Learning Models:** 
 - [x] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
   - [ ] Long Short-term Memory
-  
+- [ ] Deep Residual Learning 
+
 **3. Kaggle Playground:** 
 - [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
 - [ ] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
