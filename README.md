@@ -8,7 +8,6 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [UCI Machine Learning](https://www.kaggle.com/uciml/datasets)
 - [NASA](https://www.kaggle.com/nasa)
 - [NOAA](https://www.kaggle.com/noaa/datasets)
-- [NYC Parks & Recreation](https://www.kaggle.com/nycparks/datasets)
 
 ---
 ### Willing to play with:
@@ -30,7 +29,7 @@ My particular Machine Learning Playground, used to explore some techniques for r
 
 **3. Kaggle Playground:** 
 - [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
-- [ ] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
+- [x] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
 - [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [ ] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 - [ ] [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers)
