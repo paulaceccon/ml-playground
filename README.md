@@ -20,11 +20,12 @@ My particular Machine Learning Playground, used to explore some techniques for r
   - [ ] Image Captioning
 - [ ] Language Translation
 - [ ] Speech Recognition
+- [x] Sentiment Analysis
 
 **2. Deep Learning Models:** 
 - [x] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
-  - [ ] Long Short-term Memory
+  - [x] Long Short-term Memory
 - [ ] Deep Residual Learning 
 
 **3. Kaggle Playground:** 
@@ -37,7 +38,7 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
 - [ ] [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
-- [ ] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+- [x] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
 ---
 ### Dependencies
