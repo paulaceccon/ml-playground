@@ -42,6 +42,11 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
 - [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter/data)
 - [ ] [CIFAR-10 - Object Recognition in Images](https://www.kaggle.com/c/cifar-10/data)
+- [ ] [Zoo Animal Classification](https://www.kaggle.com/uciml/zoo-animal-classification)
+- [ ] [SMS Spam](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+- [ ] [Mushroom Classification](https://www.kaggle.com/uciml/mushroom-classification/kernels)
+- [ ] [Iris Species](https://www.kaggle.com/uciml/iris/kernels)
+- [ ] [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 ---
 ### Dependencies
 
