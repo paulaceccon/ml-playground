@@ -39,7 +39,9 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 - [x] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
-
+- [ ] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
+- [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter/data)
+- [ ] [CIFAR-10 - Object Recognition in Images](https://www.kaggle.com/c/cifar-10/data)
 ---
 ### Dependencies
 
