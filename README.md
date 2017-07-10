@@ -21,6 +21,7 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] Language Translation
 - [ ] Speech Recognition
 - [x] Sentiment Analysis
+- [x] Natural Language Processing
 
 **2. Deep Learning Models:** 
 - [x] Convolutional Neural Networks
