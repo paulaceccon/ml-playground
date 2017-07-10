@@ -37,10 +37,16 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [Painter by Numbers](https://www.kaggle.com/c/painter-by-numbers)
 - [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
 - [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
-- [ ] [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 - [x] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
-
+- [ ] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
+- [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter/data)
+- [ ] [CIFAR-10 - Object Recognition in Images](https://www.kaggle.com/c/cifar-10/data)
+- [ ] [Zoo Animal Classification](https://www.kaggle.com/uciml/zoo-animal-classification)
+- [ ] [SMS Spam](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+- [ ] [Mushroom Classification](https://www.kaggle.com/uciml/mushroom-classification/kernels)
+- [ ] [Iris Species](https://www.kaggle.com/uciml/iris/kernels)
+- [ ] [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 ---
 ### Dependencies
 
