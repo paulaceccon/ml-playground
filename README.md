@@ -3,13 +3,6 @@
 My particular Machine Learning Playground, used to explore some techniques for regression and classification, mainly focused on using Deep Learning techniques.
 
 ---
-### Datasets:
-
-- [UCI Machine Learning](https://www.kaggle.com/uciml/datasets)
-- [NASA](https://www.kaggle.com/nasa)
-- [NOAA](https://www.kaggle.com/noaa/datasets)
-
----
 ### Willing to play with:
 
 **1. Problems:**
