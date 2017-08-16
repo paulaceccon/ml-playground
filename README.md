@@ -21,6 +21,9 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] Recurrent Neural Networks
   - [x] Long Short-term Memory
 - [ ] Deep Residual Learning 
+- [ ] Generative Adversarial Networks
+- [ ] Style Transfer
+- [ ] Autoencoders
 
 **3. Kaggle Playground:** 
 - [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
