@@ -5,21 +5,28 @@ My particular Machine Learning Playground, used to explore some techniques for r
 ---
 ### Willing to play with:
 
-**1. Problems:**
+**1. Topics:**
 - [ ] Image Recognition
-  - [x] Digit Recognizer
+  - [x] Digit/Character Recognizer
+    - MNIST.ipynb
+    - notMNIST.ipynb
   - [x] Face Recognizer
+    - FaceRecognizer.ipynb
   - [ ] Emotion Recognizer
   - [ ] Image Captioning
 - [ ] Language Translation
 - [ ] Speech Recognition
 - [x] Sentiment Analysis
+  - Sentiment Analysis on Movie Reviews.ipynb
 - [x] Natural Language Processing
+  - Sentiment Analysis on Movie Reviews.ipynb
 
 **2. Deep Learning Models:** 
 - [x] Convolutional Neural Networks
+  - FaceRecognizer.ipynb
 - [ ] Recurrent Neural Networks
   - [x] Long Short-term Memory
+    - Sentiment Analysis on Movie Reviews.ipynb
 - [ ] Deep Residual Learning 
 - [ ] Generative Adversarial Networks
 - [ ] Style Transfer
