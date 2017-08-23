@@ -41,7 +41,7 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
 - [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
-- [ ] [Leaf Classification] (https://www.kaggle.com/c/leaf-classification)
+- [ ] [Leaf Classification](https://www.kaggle.com/c/leaf-classification)
 - [x] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 - [x] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
 - [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter)
