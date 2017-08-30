@@ -31,13 +31,13 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] Deep Residual Learning 
 - [ ] Generative Adversarial Networks
 - [ ] Style Transfer
-- [ ] Autoencoders
+- [x] Autoencoders
 
 **3. Kaggle Playground:** 
 - [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
 - [x] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- [ ] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+- [x] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 - [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
 - [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
