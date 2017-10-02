@@ -8,36 +8,29 @@ My particular Machine Learning Playground, used to explore some techniques for r
 **1. Topics:**
 - [ ] Image Recognition
   - [x] Digit/Character Recognizer
-    - MNIST.ipynb
-    - notMNIST.ipynb
   - [x] Face Recognizer
-    - FaceRecognizer.ipynb
   - [ ] Emotion Recognizer
   - [ ] Image Captioning
 - [ ] Language Translation
 - [ ] Speech Recognition
 - [x] Sentiment Analysis
-  - SMS Spam Collection Dataset.ipynb
-  - Sentiment Analysis on Movie Reviews.ipynb
 - [x] Natural Language Processing
-  - Sentiment Analysis on Movie Reviews.ipynb
 
 **2. Deep Learning Models:** 
 - [x] Convolutional Neural Networks
   - FaceRecognizer.ipynb
 - [ ] Recurrent Neural Networks
   - [x] Long Short-term Memory
-    - Sentiment Analysis on Movie Reviews.ipynb
 - [ ] Deep Residual Learning 
 - [ ] Generative Adversarial Networks
 - [ ] Style Transfer
-- [ ] Autoencoders
+- [x] Autoencoders
 
 **3. Kaggle Playground:** 
 - [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
 - [x] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- [ ] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+- [x] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 - [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
 - [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
 - [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
