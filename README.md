@@ -18,7 +18,6 @@ My particular Machine Learning Playground, used to explore some techniques for r
 
 **2. Deep Learning Models:** 
 - [x] Convolutional Neural Networks
-  - FaceRecognizer.ipynb
 - [ ] Recurrent Neural Networks
   - [x] Long Short-term Memory
 - [ ] Deep Residual Learning 
