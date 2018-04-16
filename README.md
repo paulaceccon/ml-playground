@@ -20,29 +20,36 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [x] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
   - [x] Long Short-term Memory
+  - [x] Gated Recurrent Unit
 - [ ] Deep Residual Learning 
 - [ ] Generative Adversarial Networks
 - [ ] Style Transfer
 - [x] Autoencoders
 
 **3. Kaggle Playground:** 
-- [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
-- [x] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- [ ] [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
 - [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- [x] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
-- [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
-- [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
-- [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
-- [ ] [Leaf Classification](https://www.kaggle.com/c/leaf-classification)
-- [x] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
-- [x] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
-- [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter)
+- [x] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- [x] [Mushroom Classification](https://www.kaggle.com/uciml/mushroom-classification/)
 - [ ] [CIFAR-10 - Object Recognition in Images](https://www.kaggle.com/c/cifar-10)
 - [ ] [Zoo Animal Classification](https://www.kaggle.com/uciml/zoo-animal-classification)
+- [x] [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer#tutorial)
+- [x] [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+- [ ] [Leaf Classification](https://www.kaggle.com/c/leaf-classification)
+- [ ] [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
+- [ ] [Humpback Whale Identification](https://www.kaggle.com/c/whale-categorization-playground/)
+- [ ] [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification/kernels)
+- [ ] [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents)
+- [ ] [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/)
+- [ ] [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
+- [ ] [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification)
 - [x] [SMS Spam](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
-- [x] [Mushroom Classification](https://www.kaggle.com/uciml/mushroom-classification/kernels)
-- [ ] [Iris Species](https://www.kaggle.com/uciml/iris/kernels)
-- [ ] [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+- [x] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+- [ ] [Santa's Uncertain Bags](https://www.kaggle.com/c/santas-uncertain-bags)
+- [ ] [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging/)
+- [x] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
+- [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter)
+
 ---
 ### Dependencies
 
