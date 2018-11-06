@@ -49,6 +49,9 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging/)
 - [x] [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection)
 - [ ] [Partly Sunny with a Chance of Hashtags](https://www.kaggle.com/c/crowdflower-weather-twitter)
+- [ ] [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
+- [ ] [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)
+- [ ] [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
 
 ---
 ### Dependencies
