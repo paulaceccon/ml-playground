@@ -60,7 +60,6 @@ My particular Machine Learning Playground, used to explore some techniques for r
 conda install -c conda-forge opencv=3.2.0
 conda install -c conda-forge tensorflow
 conda install -c conda-forge keras
-conda install -c conda-forge dlib
 conda install -c conda-forge dlib=19.4
 ```
 
