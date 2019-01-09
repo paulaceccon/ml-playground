@@ -54,11 +54,24 @@ My particular Machine Learning Playground, used to explore some techniques for r
 - [ ] [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
 
 ---
-### Dependencies
+### Installation
+# General packages
+```
+conda install -c conda-forge opencv=3.2.0
+conda install -c conda-forge tensorflow
+conda install -c conda-forge keras
+conda install -c conda-forge dlib
+conda install -c conda-forge dlib=19.4
+```
 
-- [Tensor Flow](http://www.lfd.uci.edu/~gohlke/pythonlibs/) or [Theano](http://deeplearning.net/software/theano/install.html)<sup>1</sup>
-- [OpenFace](https://github.com/samotiian/Installing_openface_with_anaconda)
-- OpenCV
-- dlib
 
-<sup>1</sup>*For Tensor Flow GPU installation (Win) check [this](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html).*
+#TensorFlow [GPU](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html) (Windows)
+
+1. Install VS2015
+2. Download and install CUDA Toolkit v8.0 or above (https://developer.nvidia.com/cuda-downloads)
+	* Leave your existing driver in place. After starting the installer, deselect the option to install the 
+	  driver that comes bundled with the installer. The driver you have now will work with CUDA 8.
+3. Download cuDNN version 5.1 library for Windows 10 (https://developer.nvidia.com/cudnn)
+4. Extract the cuDNN files into CUDA Toolkit directory (do not replace the folders)
+5. Ensure after installing CUDA Toolkit, the CUDA_HOME is set in the environmental variables. 
+6. `conda install tensorflow-gpu`
