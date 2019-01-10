@@ -64,7 +64,7 @@ conda install -c conda-forge dlib=19.4
 ```
 
 
-##### TensorFlow [GPU](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html) (Windows)
+#### TensorFlow [GPU](https://nitishmutha.github.io/tensorflow/2017/01/22/TensorFlow-with-gpu-for-windows.html) (Windows)
 
 1. Install VS2015
 2. Download and install CUDA Toolkit v8.0 or above (https://developer.nvidia.com/cuda-downloads)
